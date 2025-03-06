@@ -1,0 +1,3 @@
+ - DM320118 - https://www.microchipdirect.com/dev-tools/DM320118
+     - Ensure switch 2 on the dual SPST DIP switch is set to on
+     - Will be using the ECC608 TrustFlex Device on the board
